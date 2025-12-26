@@ -49,7 +49,7 @@ enableRobotsTXT = true
     unsafe = true
 
 [images]
-  disableLazyLoading = false # 明确启用懒加载（默认即为false，可省略）
+  disableLazyLoading = false
 
 [markup.imageRender]
 loading = "lazy"
