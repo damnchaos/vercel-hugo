@@ -55,7 +55,7 @@
     - title: Github
       url: https://github.com/runningcheese
       description: ''
-
+      
 - taxonomy: 视频自媒体
   icon: fas fa-video
   links:
@@ -98,7 +98,7 @@
     - title: Threads
       url: https://www.threads.com/
       description: ''
-
+      
 - taxonomy: 自媒体数据榜
   icon: fas fa-chart-bar
   links:
@@ -238,7 +238,8 @@
     - title: 首席运营官
       url: https://zhuanlan.zhihu.com/imcoo
       description: ''
-      - taxonomy: AI 大模型与API
+      
+- taxonomy: AI 大模型与API
   icon: fas fa-robot
   links:
     - title: ChatGPT
@@ -423,7 +424,8 @@
     - title: Vidu
       url: https://www.shengshu-ai.com/vidu
       description: ''
-      - taxonomy: 新闻热榜与资讯
+      
+- taxonomy: 新闻热榜与资讯
   icon: fas fa-newspaper
   links:
     - title: 今日热榜
@@ -581,7 +583,8 @@
     - title: RSSHub
       url: https://docs.rsshub.app/
       description: ''
-      - taxonomy: 搜索引擎
+      
+- taxonomy: 搜索引擎
   icon: fas fa-search
   links:
     - title: 百度
@@ -700,7 +703,8 @@
     - title: PikPak
       url: https://pikpak.kinh.cc/?Type=Login
       description: ''
-      - taxonomy: 实用工具箱
+      
+- taxonomy: 实用工具箱
   icon: fas fa-toolbox
   links:
     - title: 云设
@@ -792,7 +796,8 @@
     - title: 阿里图标库 (iconfont)
       url: https://www.iconfont.cn/
       description: ''
-      - taxonomy: 效率与整理工具
+      
+- taxonomy: 效率与整理工具
   icon: fas fa-tasks
   links:
     - title: 在线文本比较
@@ -909,7 +914,8 @@
     - title: DataIsBeautiful
       url: https://www.reddit.com/r/dataisbeautiful/
       description: ''
-      - taxonomy: 哲学与心理学
+      
+- taxonomy: 哲学与心理学
   icon: fas fa-brain
   links:
     - title: 斯坦福哲学百科
@@ -986,7 +992,8 @@
     - title: 小木虫
       url: https://muchong.com/
       description: ''
-      - taxonomy: 政治与社会
+      
+- taxonomy: 政治与社会
   icon: fas fa-globe-asia
   links:
     - title: 政治倾向测试 (8values)
@@ -1051,7 +1058,8 @@
     - title: 局座张召忠
       url: https://space.bilibili.com/33683045/upload/video
       description: ''
-      - taxonomy: 历史学
+      
+- taxonomy: 历史学
   icon: fas fa-history
   links:
     - title: 全历史
@@ -1135,7 +1143,8 @@
     - title: 声同小语种
       url: http://www.somdom.com/
       description: ''
-      - taxonomy: 综合科普
+      
+- taxonomy: 综合科普
   icon: fas fa-atom
   links:
     - title: 科普中国
@@ -1187,7 +1196,8 @@
     - title: 谷歌地球
       url: https://earth.google.com/web/
       description: ''
-      - taxonomy: 科技资讯
+      
+- taxonomy: 科技资讯
   icon: fas fa-microchip
   links:
     - title: IT之家
@@ -1242,7 +1252,8 @@
     - title: F-Droid
       url: https://f-droid.org/
       description: ''
-      - taxonomy: 效率与整理
+      
+- taxonomy: 效率与整理
   icon: fas fa-tasks
   links:
     - title: 在线文本比较
@@ -1325,7 +1336,8 @@
     - title: 镝数图表
       url: https://dycharts.com/appv2/#/pages/home/index
       description: ''
-      - taxonomy: 哲学与心理
+      
+- taxonomy: 哲学与心理
   icon: fas fa-brain
   links:
     - title: 斯坦福哲学百科
@@ -1424,7 +1436,8 @@
     - title: 巫师财经
       url: https://space.bilibili.com/472747194/upload/video
       description: ''
-      - taxonomy: 翻译与词典
+      
+- taxonomy: 翻译与词典
   icon: fas fa-language
   links:
     - title: DeepL 翻译
@@ -1489,7 +1502,8 @@
     - title: 声同小语种
       url: http://www.somdom.com/
       description: ''
-      - taxonomy: 综合科普
+      
+- taxonomy: 综合科普
   icon: fas fa-flask
   links:
     - title: 科普中国
@@ -1541,7 +1555,8 @@
     - title: 谷歌地球
       url: https://earth.google.com/web/
       description: ''
-      - taxonomy: 科技资讯
+      
+- taxonomy: 科技资讯
   icon: fas fa-microchip
   links:
     - title: IT之家
@@ -1596,7 +1611,8 @@
     - title: F-Droid
       url: https://f-droid.org/
       description: ''
-      - taxonomy: 硬件与数码
+      
+- taxonomy: 硬件与数码
   icon: fas fa-camera
   links:
     - title: 橙猫涉影
@@ -1654,7 +1670,8 @@
     - title: 刀锋体
       url: https://space.bilibili.com/12162201/upload/video
       description: ''
-      - taxonomy: 软件发现与推荐
+      
+- taxonomy: 软件发现与推荐
   icon: fas fa-compass
   links:
     - title: ProductHunt
@@ -1702,7 +1719,8 @@
     - title: MacZ
       url: https://www.macz.com/
       description: ''
-      - taxonomy: GitHub 与编程社区
+      
+- taxonomy: GitHub 与编程社区
   icon: fab fa-github
   links:
     - title: GitHub Trending
@@ -1772,7 +1790,8 @@
     - title: Greasy Fork (脚本)
       url: https://greasyfork.org/zh-CN
       description: ''
-      - taxonomy: 设计资讯与教程
+      
+- taxonomy: 设计资讯与教程
   icon: fas fa-pencil-ruler
   links:
     - title: Dribbble
@@ -1830,7 +1849,8 @@
     - title: 免抠图片网
       url: https://miankoutupian.com/
       description: ''
-      - taxonomy: 字体与配色工具
+      
+- taxonomy: 字体与配色工具
   icon: fas fa-font
   links:
     - title: 字由
@@ -1882,7 +1902,8 @@
     - title: 黄金比例计算
       url: https://www.shejidaren.com/examples/tools/golden-ratio/index.html
       description: ''
-      - taxonomy: 电影与剧集
+      
+- taxonomy: 电影与剧集
   icon: fas fa-film
   links:
     - title: 豆瓣电影
@@ -1940,7 +1961,8 @@
     - title: 瞎看什么
       url: https://space.bilibili.com/34858100/upload/video
       description: ''
-      - taxonomy: 艺术与摄影
+      
+- taxonomy: 艺术与摄影
   icon: fas fa-palette
   links:
     - title: 蜂鸟网
@@ -1995,7 +2017,8 @@
     - title: IPTV 全球源
       url: https://iptv-org.github.io/
       description: ''
-      - taxonomy: 音乐网站与下载
+      
+- taxonomy: 音乐网站与下载
   icon: fas fa-music
   links:
     - title: 网易云音乐
@@ -2090,7 +2113,8 @@
     - title: Audionautix
       url: https://audionautix.com/
       description: ''
-      - taxonomy: 视频素材与特效
+      
+- taxonomy: 视频素材与特效
   icon: fas fa-film
   links:
     - title: Pixabay Video
@@ -2148,7 +2172,8 @@
     - title: 剪个视频
       url: https://space.bilibili.com/201749078/upload/video
       description: ''
-      - taxonomy: 娱乐与Vlog
+      
+- taxonomy: 娱乐与Vlog
   icon: fas fa-grin-squint
   links:
     - title: 朱一旦
@@ -2203,7 +2228,8 @@
     - title: The Food Ranger
       url: https://space.bilibili.com/18739124/upload/video
       description: ''
-      - taxonomy: 体育与健身
+      
+- taxonomy: 体育与健身
   icon: fas fa-running
   links:
     - title: 腾讯 NBA
@@ -2264,7 +2290,8 @@
     - title: Steam
       url: https://store.steampowered.com/
       description: ''
-      - taxonomy: 电子书下载
+      
+- taxonomy: 电子书下载
   icon: fas fa-book
   links:
     - title: Z-Library
@@ -2316,7 +2343,8 @@
     - title: 阮一峰书单
       url: https://github.com/ruanyf/reading-list
       description: ''
-      - taxonomy: 百科与知识库
+      
+- taxonomy: 百科与知识库
   icon: fas fa-atlas
   links:
     - title: 维基百科
@@ -2352,7 +2380,8 @@
     - title: 狗屁不通文章生成器
       url: https://suulnnka.github.io/BullshitGenerator/index.html
       description: ''
-      - taxonomy: 生活助手
+      
+- taxonomy: 生活助手
   icon: fas fa-life-ring
   links:
     - title: 中国天气网
@@ -2413,7 +2442,8 @@
     - title: 卖家导航
       url: https://www.maijia123.com/
       description: ''
-      - taxonomy: 电商运营与导航
+      
+- taxonomy: 电商运营与导航
   icon: fas fa-shopping-cart
   links:
     - title: 亚马逊卖家导航
