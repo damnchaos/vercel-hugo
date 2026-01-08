@@ -1,7 +1,7 @@
-baseURL               = "https://518855.xyz/"
+baseURL               = "https://uder.top/"
 languageCode          = "zh-CN"
-title                 = "Mjj的导航站 | 免费服务器| 免费资源 | 必备工具 | 导航"
-description           = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
+title                 = "Arron的导航站 | 外贸加油站| 免费资源 | 必备工具 | 导航"
+description           = "外贸加油站 免费资源 Arron的导航站 必备工具 导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -55,4 +55,4 @@ disableLazyLoading = false
 loading = "lazy"
 
 [params.footer]
-    copyright = '2025 - {year} By [AiEDU](https://github.com/88899) | [vercel-hugo](https://github.com/88899/vercel-hugo) <br/>'
+    copyright = '2026 - {year} By [Arron](https://github.com/damnchaos) | [vercel-hugo](https://github.com/damnchaos/vercel-hugo) <br/>'
